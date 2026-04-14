@@ -53,6 +53,3 @@ Finally, run the app.
 ```bash
 streamlit run rag-modernbert.py
 ```
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
